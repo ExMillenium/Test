@@ -116,7 +116,7 @@
             <mxPoint x="10" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fhSgkcsNjSkY12sB9l02-36" value="RESULTATETAPE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fhSgkcsNjSkY12sB9l02-39">
+        <mxCell id="fhSgkcsNjSkY12sB9l02-36" value="RESULTATETAPE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="fhSgkcsNjSkY12sB9l02-39">
           <mxGeometry x="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fhSgkcsNjSkY12sB9l02-37" value="idEtape #" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="fhSgkcsNjSkY12sB9l02-39">
